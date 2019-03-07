@@ -1,0 +1,15 @@
+Youtube : robot maze solver using arduino
+by SENTHILKUMAR P
+
+equipments required :-
+
+1.arduino uno
+2.dc motor
+3.ir array sensor (6 ir sensor) connect to pins 32, 30,   34, 36, 38, 40 in adruino mega
+4.h bridge driver
+5.battery
+
+connect h-bridge to corresponding pin in code
+no need of enable pin
+enable pin to high signal, so enable h-bridge
+otherwise use hbridge without enable pin.
