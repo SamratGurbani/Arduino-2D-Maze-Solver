@@ -1,6 +1,3 @@
-Youtube : robot maze solver using arduino
-by SENTHILKUMAR P
-
 equipments required :-
 
 1.arduino uno
@@ -13,3 +10,7 @@ connect h-bridge to corresponding pin in code
 no need of enable pin
 enable pin to high signal, so enable h-bridge
 otherwise use hbridge without enable pin.
+
+This is related to the code.pdf file stored in this Git
+This code is properly working 
+Thanks to : Mohit Gurbani
